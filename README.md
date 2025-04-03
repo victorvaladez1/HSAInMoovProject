@@ -24,7 +24,7 @@ With **Python handling AI and speech recognition**, and **Arduino controlling se
 
 Ensure you have the following installed before proceeding:
 
-- **Python 3.x** 📌
+- **Python 3.9.10** 📌
 - **Arduino IDE** 📌
 - **Git** 📌 (for version control)
 - Required Python packages:
@@ -35,7 +35,7 @@ Ensure you have the following installed before proceeding:
 Getting Started
 1️⃣ Clone the Repository 📂
 
-git clone https://github.com/<your-repo-link>
+git clone https://github.com/victorvaladez1/HSAInMoovProject
 cd HSAInMoovProject
 
 Set Up OpenAI API Key 🔐
